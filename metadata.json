@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shamaki's Recipe",
+  "description": "An immersive culinary explorer featuring authentic recipes from all 195 countries, integrated AI cooking assistant, and social recipe sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
